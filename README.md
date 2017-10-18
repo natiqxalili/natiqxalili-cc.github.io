@@ -1,2 +1,2 @@
-# natiqxalili.github.io
+# natiqxalili-cc.github.io
 My personal project
